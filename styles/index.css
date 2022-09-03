@@ -2,7 +2,7 @@
 :root {
     
     --primary-color: white;
-    --secondary-color:#f64c72;
+    --secondary-color:#319DA0;
 
 }
 
@@ -11,7 +11,7 @@
 
 }
 body{
-    background: #252882;
+    background: #781C68;
     height: 0px;
 }
 h1,h2,h3,h4,h5,h6,p,span,a,td{
